@@ -1,0 +1,59 @@
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\csc.exe
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\System.Collections.Immutable.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\vbc.exe
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\VBCSCompiler.exe
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\roslyn\VBCSCompiler.exe.config
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\company.dll.config
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\company.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\company.pdb
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\obj\Debug\company.dll
+c:\users\training.mtytm15415w2z\documents\visual studio 2015\Projects\myCompany\company\obj\Debug\company.pdb
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\csc.exe
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\vbc.exe
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\VBCSCompiler.exe
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\company.dll.config
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\company.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\company.pdb
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\obj\Debug\company.dll
+C:\Users\training.MTYTM15415W2Z\Documents\academy\Academy\myCompany\company\obj\Debug\company.pdb
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\csc.exe
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\vbc.exe
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\VBCSCompiler.exe
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\company.dll.config
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\company.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\company.pdb
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\obj\Debug\company.dll
+C:\Users\training.MTYTM15415W2Z\Desktop\Academy\myCompany\company\obj\Debug\company.pdb

@@ -1,0 +1,60 @@
+﻿body {
+    .logo p
+        {
+          font-family:  Arial, Helvetica, Verdana sans-serif;
+          color: #FFFFFF;
+          font-size: x-large;
+          text-align: left;
+          padding: 5px;
+          margin: 0 -15px 20px -15px;
+        }
+ h1
+        {
+          font-family:  Arial, Helvetica, Verdana sans-serif;
+          color: #ff0000;
+          font-size: x-large;
+          text-align: left;
+          padding: 5px;
+          margin: 0 -15px 20px -15px;
+        }
+  footer p
+        {
+          font-size: x-small;
+          text-align: center;
+        }
+   ul.menu {
+          list-style-type: none;
+          padding-left: 0;
+          margin-left: 0;
+          border-bottom:  1px;}
+    .menu li {
+          background: #ffffff;
+          display: inline;
+        }
+        .menu a {
+          background-color: #EAEAEA;
+          color: #333;
+          display: inline-block;
+          border:  1px;
+          border-bottom: none;
+          padding: 5px 15px 5px 15px;
+          text-decoration: none;
+          
+        }
+         
+        .description p{
+          width: 1200px;
+          color: #000000;
+          float: left;
+        }
+        .social-media{
+          width: 200px;
+          overflow: hidden;
+          float: right;
+
+        }
+        .contenido{
+          display: inline-block;
+          margin: 0 auto;
+        }
+}

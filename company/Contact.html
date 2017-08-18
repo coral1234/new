@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <style>
+       .imglog{
+        width:200px;
+        height:200px;
+    }
+    .logo{
+        background-color:black;
+        padding:3px;
+    }
+    .marca{
+        font-family:  Arial, Helvetica, Verdana sans-serif;
+          color: #FFFFFF;
+          font-size: xx-large;
+          text-align: left;
+          padding:3px;
+    }
+     ul.menu {
+          list-style-type: none;
+          padding-left: 0;
+          margin-left: 0;
+          border-bottom:  1px;}
+    .menu li {
+          background: #ffffff;
+          display: inline;
+        }
+        .menu a {
+          background-color: #EAEAEA;
+          color: #333;
+          display: inline-block;
+          border:  1px;
+          border-bottom: none;
+          padding: 5px 15px 5px 15px;
+          text-decoration: none;
+          
+        }
+          footer p
+        {
+          font-size: x-small;
+          text-align: center;
+        }
+           .contenido{
+          display: inline-block;
+          margin: 0 auto;
+        }
+           .Contact{
+          float: left;
+          width:800px;
+           }
+           .social-media{
+          width: 200px;
+          overflow: hidden;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <div class="row">
+            <div class="col-lg-3">
+                <img class="imglog" src="images/logo.jpg" />
+            </div>
+            <div class="col-lg-9">
+                <div class="marca">CONVERSE</div>
+            </div>
+        </div>
+    </div>
+    <ul class="menu">
+        <li> <a href="cat2.html">Catalog</a></li>
+        <li> <a href="Contact.html">Contact</a></li>
+    </ul>
+    <div class="contenido">
+        <div class="Contact">
+            <h1>Contact</h1>
+            <form id="myform">
+                <label for="name-data">Name: </label>
+                <input type="name" id="name-data" required />
+            <br>
+            <label for="email-data">Email: </label>
+            <input type="email" id="email-data" required /><br>
+            <input type="radio" name="gender" value="prodinf" checked> Product Info<br>
+            <input type="radio" name="gender" value="General"> General<br>
+            <input type="radio" name="gender" value="Suppliers"> Suppliers<br>
+            <label for="message-data">Message: </label><br>
+            <input type="message" id="message-data" required /></form><br>
+            <button type="button">Clear</button>
+            <button type="button2">Send</button>
+        </div>
+
+        <div class="social-media">
+            <div class="col-sm-1" style="background-color: #FFFFFF;"><IMG SRC="images/fb.jpg" WIDTH=50 HEIGHT=50></div>
+            <div class="col-sm-1" style="background-color: #FFFFFF;"><IMG SRC="images/twitter.jpg" WIDTH=50 HEIGHT=50></div>
+            <div class="col-sm-1" style="background-color: #FFFFFF;"><IMG SRC="images/instagram.jpg" WIDTH=50 HEIGHT=50></div>
+            <div class="col-sm-1" style="background-color: #FFFFFF;"><IMG SRC="images/youtube.jpg" WIDTH=50 HEIGHT=50></div>
+        </div>
+    </div>
+    <div class="footer">
+        <footer>
+            <p>Todos los derechos son reservados</p>
+            <p>
+                Contact information: <a href="ejemplo@converse.com">
+                    converse@converse.com
+                </a>.
+            </p>
+            <p>Monterrey N.L Mexico</p>
+            <p>08-07-2017</p>
+        </footer>
+    </div>
+</body>
+</html>
